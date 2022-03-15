@@ -2,8 +2,9 @@
 
 ## Gitko Denis
 
-### Contacts
+ <image src="https://user-images.githubusercontent.com/82765436/158281272-b535428b-be52-49bf-a35a-84950563809e.jpg" width="250px" height="325px">
 
+### Contacts
 -   Email: prostodenis1397@gmail.com
 -   Discord: Bartissimo#1952
 -   RS School Discord: Denis Gitko (@gitkoDev)
