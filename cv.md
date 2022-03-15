@@ -1,8 +1,9 @@
 ### rsschool-cv
 
+![WeChat Image_20220314161305](https://user-images.githubusercontent.com/82765436/158283119-f3f0aada-f199-43a4-ba07-9ad1ecb2b312.jpg)
+ 
 ## Gitko Denis
 
- <image src="https://user-images.githubusercontent.com/82765436/158281272-b535428b-be52-49bf-a35a-84950563809e.jpg" width="250px" height="325px">
 
 ### Contacts
 -   Email: prostodenis1397@gmail.com
